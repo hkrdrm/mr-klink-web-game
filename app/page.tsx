@@ -54,7 +54,7 @@ export default function Home() {
 
       <div className="mt-8">
         <iframe
-          src="mr-klink.html"
+          src="/mr-klink.html"
           title="mr-klink"  
           width="480"
           height="720"
