@@ -60,6 +60,7 @@ export default function Home() {
           height="720"
           frameBorder="0"
           scrolling="no"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
         ></iframe>
       </div>
